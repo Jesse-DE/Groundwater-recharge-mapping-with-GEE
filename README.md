@@ -10,4 +10,4 @@ Datasets used:
 
 A function will be defined to resample the time resolution of an ee.ImageCollection and to homogenize time index of both datasets. Both datasets will then be combined into one.
 
-In the fourth and final part, the Thornthwaite-Mather(TM) procedure will be implemented by iterating over the meteorological ee.ImageCollection. Finally, a comparison between groundwater recharge in two places will be described and the resulting mean annual groundwater recharge will be displayed over France
+In the fourth and final part, the Thornthwaite-Mather(TM) procedure will be implemented by iterating over the meteorological ee.ImageCollection. Finally, a comparison between groundwater recharge in two places will be described and the resulting mean annual groundwater recharge will be displayed over Rwanda
